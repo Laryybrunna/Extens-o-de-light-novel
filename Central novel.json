@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Shadow Slave",
+    "url": "https://centralnovel.com/series/shadow-slave/",
+    "cover": "https://centralnovel.com/wp-content/uploads/2025/01/shadow-slave.jpg",
+    "genres": ["Ação","Aventura","Fantasia","Magia","Monstros","Romance","Sistema"],
+    "status": "Em andamento"
+  },
+  {
+    "title": "Lord of Mysteries",
+    "url": "https://centralnovel.com/series/lord-of-mysteries/",
+    "cover": "https://centralnovel.com/wp-content/uploads/2025/01/lord-of-mysteries.jpg",
+    "genres": ["Adulto","Comédia","Mistério","Psicológico","Sobrenatural","Terror","Xuanhuan"],
+    "status": "Em andamento"
+  },
+  {
+    "title": "The Beginning After The End",
+    "url": "https://centralnovel.com/series/the-beginning-after-the-end/",
+    "cover": "https://centralnovel.com/wp-content/uploads/2025/01/the-beginning-after-the-end.jpg",
+    "genres": ["Ação","Adulto","Artes Marciais","Comédia","Fantasia","Romance","Seinen","Sobrenatural"],
+    "status": "Em andamento"
+  },
+  {
+    "title": "Reverend Insanity",
+    "url": "https://centralnovel.com/series/reverend-insanity/",
+    "cover": "https://centralnovel.com/wp-content/uploads/2025/01/reverend-insanity.jpg",
+    "genres": ["Ação","Adulto","Aventura","Fantasia","Mistério","Psicológico","Xianxia"],
+    "status": "Completo"
+  },
+  {
+    "title": "Demon King",
+    "url": "https://centralnovel.com/series/demon-king/",
+    "cover": "https://centralnovel.com/wp-content/uploads/2025/01/demon-king.jpg",
+    "genres": ["Ação","Aventura","Comédia","Drama","Fantasia","Harém","Romance","Seinen","Sobrenatural"],
+    "status": "Em andamento"
+  }
+]
